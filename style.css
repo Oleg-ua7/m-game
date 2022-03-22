@@ -1,0 +1,30 @@
+html {
+  font-family: sans-serif;
+}
+
+body {
+  position: relative;
+  width: 50%;
+  max-width: 800px;
+  min-width: 480px;
+  margin: 0 auto;
+}
+
+.logo-title {
+  position: absolute;
+  bottom: 50%;
+  left: 0;
+  width: 150px;
+  height: 150px;
+}
+
+.lastResult {
+  color: white;
+  padding: 3px;
+}
+
+.title,
+.title-p,
+.form {
+  text-align: center;
+}
